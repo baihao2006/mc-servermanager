@@ -1,8 +1,6 @@
 # mc-servermanager
-一个懒人或小白使用的Minecraft Bedrock 服务器开服机器。目前采用
-# Minecraft Bedrock Server Manager
-
-专为Windows Server设计，提供直观的图形化界面来配置和管理Minecraft服务器。
+- 一个懒人或小白使用的Minecraft Bedrock 服务器开服机器。
+- 专为Windows Server设计，提供直观的图形化界面来配置和管理Minecraft服务器。
 
 ## ✨ 功能特性
 
