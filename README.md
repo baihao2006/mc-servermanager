@@ -1,6 +1,7 @@
 # mc-servermanager
 - 一个懒人或小白使用的Minecraft Bedrock 服务器开服机器。
 - 专为Windows Server设计，提供直观的图形化界面来配置和管理Minecraft服务器。
+- 只适用于minecraft的v1.21.26版本，如有不同请自行更换。
 
 ## ✨ 功能特性
 
