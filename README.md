@@ -49,13 +49,13 @@ MCManager/
 ```
 
 ## 🛠️ AIGC说明
-本代码经过AI（grok-4）重构，无注释，舍弃了部分可读性。
-（实际上我踏马太懒了）
+- 本代码经过AI（grok-4）重构，无注释，舍弃了部分可读性。
+- （实际上我踏马太懒了）
 
 ## 🤝 声明
 
-此版本为初始版本，可能出现高分辨率下字过小的情况，请期待后面修复。
-同时感谢[Chadwuo和PekingLee](https://github.com/Chadwuo/HHSoftwarePack)的免费开源exe打包器，使得整个软件安装更加易用。
+- 此版本为初始版本，可能出现高分辨率下字过小的情况，请期待后面修复。
+- 同时感谢[Chadwuo和PekingLee](https://github.com/Chadwuo/HHSoftwarePack)的免费开源exe打包器，使得整个软件安装更加易用。
 
 ## 🚀 更新日志
 
@@ -65,7 +65,7 @@ MCManager/
 - 服务器启动/停止功能
 
 ### v1.1.0(画饼中...)
--将会考虑加入光影安装一体化
--加入服务器联网下载功能（解决下载太慢难题）
+- 将会考虑加入光影安装一体化
+- 加入服务器联网下载功能（解决下载太慢难题）
 
 **敬请使用 Minecraft Bedrock Server Manager！** 🎉
