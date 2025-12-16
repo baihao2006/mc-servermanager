@@ -23,14 +23,14 @@
 ## 📥 使用方法（请在服务器端使用！）
 
 ### 方法一：使用安装程序（推荐）
-1. 下载最新的安装程序 `MCServerManagerInstaller.exe`
-2. 运行安装程序，按照向导提示完成安装
-3. 安装完成后，通过开始菜单或桌面快捷方式启动程序
+- 下载最新的安装程序 `MCServerManagerInstaller.exe`
+- 运行安装程序，按照向导提示完成安装
+- 安装完成后，通过开始菜单或桌面快捷方式启动程序
 
 ### 方法二：直接运行可执行文件
-1. 下载最新的 `MCServerManager.exe`
-2. 确保 `lib` 目录与可执行文件位于同一目录
-3. 双击 `MCServerManager.exe` 启动程序
+- 下载最新的 `MCServerManager.exe`
+- 确保 `lib` 目录与可执行文件位于同一目录
+- 双击 `MCServerManager.exe` 启动程序
 
 ## 📁 项目结构
 
