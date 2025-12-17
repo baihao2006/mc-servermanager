@@ -1,1 +1,0 @@
-#此处缺少一个MCServerManager.pkg，为pyinstaller构建中间文件（超过25Mb）。若想获取完整文件，请使用pyinstaller打包。
