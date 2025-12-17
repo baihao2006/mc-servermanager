@@ -69,4 +69,4 @@ MCManager/
 - 加入服务器联网下载功能（解决下载太慢难题）
 
 **敬请使用 Minecraft Bedrock Server Manager！** 🎉
-- ![Downloads](https://img.shields.io/github/downloads/github.com/baihao2006/mc-servermanager/total)
+- ![Downloads](https://img.shields.io/github/downloads/baihao2006/mc-servermanager/total)
