@@ -2,9 +2,14 @@
 - 基于python的PyQt5和QtWidgets等库
 - 一个懒人或小白使用的Minecraft Bedrock 服务器开服机器。
 - 专为Windows Server设计，提供直观的图形化界面来配置和管理Minecraft服务器。
-- 只适用于minecraft的v1.21.26版本，如有不同请自行更换。
+- 适用于minecraft基岩的任何版本，如有不同点击服务器中的下载进行操作。
+- 本项目基于MIT协议开源，您可以自由地使用、修改和分发本项目的代码(只有main.py是必要的)。
 
-## ✨ 功能特性
+## ✨ 更新提示(v1.0.2版本)(其实是v1.01版本太烂不敢发)
+- 更新后允许自己选择您的mc版本下载服务器包开服
+- 请选择当前存在的mc版本，否则会报错。
+- 有些版本的命名格式不同，比如1.21.101.1版本和1.21.51.01版本，两者完全不同，请注意区分。
+- 更新了部分注释。
 
 ### 服务器配置
 - 图形化界面配置所有服务器参数
@@ -41,9 +46,14 @@ MCManager/
 ├── main.py              # 主程序入口
 ├── license              # 开源协议
 ├── lib/                 # Minecraft官方服务器文件目录
-│   ├── bedrock_server.exe  # 官方服务器可执行文件
-│   ├── server.properties   # 服务器配置文件
-│   └── ...                # 其他服务器文件
+-│   ├── bedrock_server.exe  # 官方服务器可执行文件
+-│   ├── server.properties   # 服务器配置文件
+-│   └── ...                # 其他服务器文件
++│   ├── 1.26.0.25/       # 版本号目录
++│   │   ├── bedrock_server.exe  # 官方服务器可执行文件
++│   │   ├── server.properties   # 服务器配置文件
++│   │   └── ...                # 其他服务器文件
++│   └── ...              # 其他版本目录
 ├── requirements.txt     # Python依赖列表
 └── README.md            # 项目说明文档
 ```
@@ -54,7 +64,7 @@ MCManager/
 
 ## 🤝 声明
 
-- 此版本为初始版本，可能出现高分辨率下字过小的情况，请期待后面修复。
+- 此版本为v1.0.2版本发行版本，若有错误可以在[议题](https://github.com/baihao2006/mc-servermanager/issues)中反馈。
 - 同时感谢[Chadwuo和PekingLee](https://github.com/Chadwuo/HHSoftwarePack)的免费开源exe打包器，使得整个软件安装更加易用。
 
 ## 🚀 更新日志
@@ -64,9 +74,14 @@ MCManager/
 - 基本功能实现
 - 服务器启动/停止功能
 
+### v1.0.2 (2025-12-17)
+- 修复了一些bug
+- 加入了下载功能，现在可以自定义下载mc版本的服务器包。(好耶！)
+
 ### v1.1.0(画饼中...)
 - 将会考虑加入光影安装一体化
 - 加入服务器联网下载功能（解决下载太慢难题）
+- 加入存档管理功能，后续更新会更新查看管理存档功能。
 
 **敬请使用 Minecraft Bedrock Server Manager！** 🎉
 - ![Downloads](https://img.shields.io/github/downloads/baihao2006/mc-servermanager/total)
