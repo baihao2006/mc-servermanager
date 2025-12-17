@@ -13,8 +13,8 @@
 - 更新了部分注释。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="image/1.png" alt="图片1" width="300"/>
-  <img src="image/2.png" alt="图片2" width="300"/>
+  <img src="image/1.png" alt="图片1" width="500"/>
+  <img src="image/2.png" alt="图片2" width="500"/>
 </div>
 
 ### 服务器配置
