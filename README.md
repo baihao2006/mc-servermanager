@@ -11,8 +11,11 @@
 - 请选择当前存在的mc版本，否则会报错。
 - 有些版本的命名格式不同，比如1.21.101.1版本和1.21.51.01版本，两者完全不同，请注意区分。
 - 更新了部分注释。
-- ![demo](./image/1.png)
-- ![demo](./image/2.png)
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="image/1.png" alt="图片1" width="300"/>
+  <img src="image/2.png" alt="图片2" width="300"/>
+</div>
 
 ### 服务器配置
 - 图形化界面配置所有服务器参数
