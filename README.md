@@ -39,7 +39,7 @@
 ```
 MCManager/
 ├── main.py              # 主程序入口
-├── MCServerManager.exe  # 编译后的可执行文件
+├── license              # 开源协议
 ├── lib/                 # Minecraft官方服务器文件目录
 │   ├── bedrock_server.exe  # 官方服务器可执行文件
 │   ├── server.properties   # 服务器配置文件
